@@ -36,6 +36,8 @@ DB_NAME=mydatabase
 ## Possible improvements
 
 - Using a migration tool to manage the database schema instead of using the `sync` script
+- Use kysely for SQL queries instead of sequelize
+- Use fastify instead of express
 
 ## Browser view
 
